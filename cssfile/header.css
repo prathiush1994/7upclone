@@ -1,3 +1,6 @@
+/*===================
+      Header
+=====================*/
 .header-div{
     box-sizing: border-box;
     background-color: rgb(0, 210, 198);
@@ -12,6 +15,10 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
+/*===================
+    Header - Logo
+=====================*/
 .leftside-header-div{
     height: 109px;
     margin-left: 30px;
@@ -24,6 +31,12 @@
     height: 75%;
     cursor: pointer;
 }
+
+/*===================
+Header - right section
+=====================*/
+
+
 .right-header-div{
     display: flex;
 
